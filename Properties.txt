@@ -1,0 +1,10 @@
+1|Luxury Villa|Zamalek|Cairo|5e+06|5|4|350|Villa
+2|Modern Apartment|Mohandessin|Giza|1.5e+06|2|1|95.5|Apartment
+3|Beach House|North Coast|Alexandria|7.5e+06|4|3|400|Villa
+4|Studio Apartment|Nasr City|Cairo|700000|1|1|55|Apartment
+5|Penthouse|New Cairo|Cairo|3.2e+06|3|2|180|Penthouse
+6|Farm House|Fayoum|Fayoum|2e+06|3|2|600|Farm
+7|Office Space|Downtown|Cairo|4.5e+06|0|1|150|Commercial
+8|Twin House|6th October|Giza|2.8e+06|4|3|270|Villa
+9|Loft Apartment|Sheikh Zayed|Giza|1.8e+06|2|2|100|Apartment
+10|Chalet|Ain Sokhna|Suez|2.2e+06|2|1|120|Resort
